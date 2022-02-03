@@ -9,10 +9,6 @@ PROBLEM STATEMENTS!
 
 * Best selling genres on plateforms
 
-
-![image](https://user-images.githubusercontent.com/94037137/152293511-42c4e27a-d35f-45a8-a7c0-6fca025618ef.png)
-
-
 * Top publishers, genres, plateforms and sold games 
 
 * Global vs other sales in all the years
